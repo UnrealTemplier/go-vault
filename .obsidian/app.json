@@ -8,5 +8,6 @@
   },
   "autoPairMarkdown": false,
   "spellcheck": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
